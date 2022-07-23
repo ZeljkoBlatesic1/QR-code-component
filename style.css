@@ -1,0 +1,6 @@
+:root{
+    --global--predef--white: hsl(0, 0%, 100%);
+    --global--predef--lightGray: hsl(212, 45%, 89%);
+    --global--predef--grayishBlue: hsl(220, 15%, 55%);
+    --global--predef--darkBlue: hsl(218, 44%, 22%);
+}
